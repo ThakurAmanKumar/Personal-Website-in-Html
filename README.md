@@ -1,1 +1,3 @@
-Project Preview:- https://personal-website-in-html.vercel.app/
+## 🚀 Demo
+
+Check out the live demo: [Live Demo](https://personal-website-in-html.vercel.app)
